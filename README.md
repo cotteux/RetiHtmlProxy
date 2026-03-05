@@ -5,6 +5,7 @@ Add to your browser access to Reticulum Html. Acces to link with Hash, like http
 # Install
 
 pip install rns
+
 pip install requests
 
 # Run
