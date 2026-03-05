@@ -3,7 +3,7 @@
 RetiHtmlProxy.py – HTTP → Reticulum proxy (GET / HEAD only)
 
 Usage:
-    python mesh_proxy.py  [--port 8080]  [--verbose]
+    python RetiHtmlProxy.py  [--port 8080]  [--verbose]
 
 The proxy listens on the given TCP port, forwards each request over
 Reticulum, and streams the reply back to the browser.
