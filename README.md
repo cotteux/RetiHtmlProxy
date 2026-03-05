@@ -17,3 +17,6 @@ you will appear on Wikipedi English with no picture.
 
 or here http://d91a4e029d62fc64ca7d8f54f52efd11
 for Reticulum Website.
+
+compatible with rserver  https://github.com/guyroyse/rserver
+and rwebserver https://github.com/cotteux/rwebserver
