@@ -8,6 +8,7 @@ pip install rns
 
 pip install requests
 
+you can also check the video how to install and use it https://youtu.be/MctX5SwKRMQ
 # Run
 
 python RetiHtmlProxy.py 
